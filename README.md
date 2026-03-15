@@ -1,5 +1,4 @@
-﻿# Flower Marketplace (VseInstrumentiRuTZ)
-
+﻿# Flower Marketplace 
 Проект создан по спецификации маркетплейса доставки цветов. В репозитории есть фронтенд на Next.js и бэкенд на Node.js (Express + Socket.IO) с мок-данными.
 
 ## Структура
